@@ -2,7 +2,7 @@
 
 **`Back-end Developer | Java & .NET`**
 
-Fala! Me chamo Henrique, sou apaixonado por tecnologia e estou em constante evolução como desenvolvedor.
+Opa! Me chamo Henrique, sou apaixonado por tecnologia e estou em constante evolução como desenvolvedor.
 
 Tenho foco em desenvolvimento back-end, trabalhando com **Java (Spring Boot)** e **C# (.NET / ASP.NET Core)**, criando APIs e aplicações práticas para ganhar experiência real.
 
@@ -39,7 +39,7 @@ Também possuo conhecimento em **HTML, CSS e Git/GitHub**, o que me permite dese
 - C# 💜 (.NET / ASP.NET Core)
 - APIs REST 🔗
 - Banco de dados (MySQL / PostgreSQL / SQL Server) 🗄️
-- Inglês (B1 → fluente) 🇺🇸
+- English (B1 – actively improving, British English) 🇬🇧
 
 ---
 
