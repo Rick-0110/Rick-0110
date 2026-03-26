@@ -71,18 +71,9 @@ Também possuo conhecimento em **HTML, CSS e Git/GitHub**, o que me permite dese
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api?username=Rick-0110&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-  <img 
-    align="left" 
-    height="180" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-0110&theme=tokyonight&layout=compact&langs_count=6" 
-  />
+<p align="left">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rick-0110&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rick-0110&theme=tokyonight&layout=compact&langs_count=6" />
 </p>
 
 <br/><br/>
